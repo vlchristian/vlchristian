@@ -54,7 +54,7 @@ export const BoxesCore = ({
                   viewBox="0 0 24 24"
                   strokeWidth="1.5"
                   stroke="currentColor"
-                  className="pointer-events-none absolute -top-[14px] -left-[22px] h-6 w-10 stroke-[1px] text-slate-700">
+                  className="pointer-events-none absolute -top-3.5 -left-5.5 h-6 w-10 stroke-[1px] text-slate-700">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v12m6-6H6" />
                 </svg>
               ) : null}
